@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 hello world
+=======
+afalsfjlasafsaff
+dfssf
+dsfsfsfsfasfas
+f
+
+
+
+this is my commit guyssss -DY`
+>>>>>>> 7b9efce6d8c4985f217f0ffe396444be59da02ad
